@@ -178,21 +178,21 @@ p {
 
 
 .atmosphere{
-  background-image: url("../src/assets/images/atmosphere.jpg");
- 
+  background-image:linear-gradient(to top,rgba(69, 69, 69, 0.534),rgba(61, 61, 61, 0.306)), url("../src/assets/images/atmosphere.jpg");
 }
 .clear{
-  background-image: url("../src/assets/images/clear.jpg");
+  background-image:linear-gradient(to top,rgba(69, 69, 69, 0.534),rgba(61, 61, 61, 0.306)), url("../src/assets/images/clear.jpg");
 }.clouds{
-  background-image: url("../src/assets/images/clouds.jpg");
+  background-image:linear-gradient(to top,rgba(69, 69, 69, 0.534),rgba(61, 61, 61, 0.306)), url("../src/assets/images/clouds.jpg");
+
 }.rain{
-  background-image: url("../src/assets/images/rain.jpg");
+  background-image:linear-gradient(to top,rgba(69, 69, 69, 0.534),rgba(61, 61, 61, 0.306)), url("../src/assets/images/rain.jpg");
 }.drizzle{
-  background-image: url("../src/assets/images/drizzle.jpg");
+  background-image:linear-gradient(to top,rgba(69, 69, 69, 0.534),rgba(61, 61, 61, 0.306)), url("../src/assets/images/drizzle.jpg");
 }.snow{
-  background-image: url("../src/assets/images/snow.jpg");
+  background-image:linear-gradient(to top,rgba(69, 69, 69, 0.534),rgba(61, 61, 61, 0.306)), url("../src/assets/images/snow.jpg");
 }.thunderstorm{
-  background-image: url("../src/assets/images/thunderstorm.jpg");
+  background-image:linear-gradient(to top,rgba(69, 69, 69, 0.534),rgba(61, 61, 61, 0.306)), url("../src/assets/images/thunderstorm.jpg");
 }
 
 
@@ -274,5 +274,4 @@ p {
     margin-left: 30px;
   }
 }
-
 
